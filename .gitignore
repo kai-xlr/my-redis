@@ -1,1 +1,17 @@
 /target
+/debug
+/release
+/doc
+Cargo.lock
+
+.env
+.env.*
+
+*.swp
+*.swo
+*~
+.DS_Store
+
+.idea/
+*.iml
+.vscode/
